@@ -67,6 +67,11 @@ The car uses a dual-joystick control system:
 - Keep firmware updated for optimal performance
 - Ensure proper wiring to prevent short circuits
 
+## 🛑 Known Issues & Recommendations
+
+- **Low Torque**: The current 720 coreless motors may not generate enough torque for heavy loads or steep inclines. Consider using motors with higher torque ratings if you need more power.
+- **Tire Grip**: For optimal performance, use tires with high friction (grippy rubber tires). Slippery or hard plastic tires will reduce traction and make it difficult for the car to move efficiently, especially on smooth surfaces.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
